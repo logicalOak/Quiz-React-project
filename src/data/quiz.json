@@ -1,0 +1,34 @@
+{
+	"data": [
+		{
+			"question": "What is the capital of Austria?",
+			"choices": ["Graz", "Salsburg", "Innsbruck", "Vienna"],
+			"answer": "Vienna"
+		},
+		{
+			"question": "What is the capital of Serbia?",
+			"choices": ["Belgrade", "Novi Sad", "Nis", "Subotica"],
+			"answer": "Belgrade"
+		},
+		{
+			"question": "What is the capital of Slovenia?",
+			"choices": ["Celje", "Ljubljana", "Maribor", "Koper"],
+			"answer": "Ljubljana"
+		},
+		{
+			"question": "What is the capital of Slovakia?",
+			"choices": ["Kosice", "Nitra", "Bratislava", "Poprad"],
+			"answer": "Bratislava"
+		},
+		{
+			"question": "What is the capital of Romania",
+			"choices": ["Bucharest", "Craiova", "Constanta", "Braila"],
+			"answer": "Bucharest"
+		},
+		{
+			"question": "What is the capital of Germany",
+			"choices": ["Wolfsburg", "Munich", "Berlin", "Frankfurt"],
+			"answer":"Berlin"
+		}
+	]
+}
